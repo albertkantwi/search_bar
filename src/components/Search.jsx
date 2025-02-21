@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Form, InputGroup, Table } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {data} from './data';
 
 const Search = () => (
   <Container>
